@@ -1,0 +1,6 @@
+REQUIREMENTS
+
+libraries to be installed :
+numpy
+pandas
+matplotlib
